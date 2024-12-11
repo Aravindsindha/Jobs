@@ -1,0 +1,60 @@
+.display-3{
+    color: rgb(241, 237, 237);
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+}
+
+.display-4{
+    color: rgb(233, 233, 77);
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+
+.redColor{
+    background-color: rgb(250, 50, 50);
+}
+
+
+.border-start{
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+ 
+}
+
+
+.successRow{
+    background: rgb(241, 241, 241);
+}
+
+.RedColorRow{
+    background-color: rgb(243, 162, 162);  
+}
+
+/* .slideBorder{
+    border:dashed;
+    border-width: 10px;
+    border-color: red;
+} */
+
+.fontHead{
+    font-family: cursive;
+    letter-spacing: 1.5px;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.fontFam{
+    font-family: cursive;
+    letter-spacing: 1.5px;
+    line-height: 35px;
+    font-weight: 900;
+    font-size: 25px;
+    text-align: start;
+}
+
+.blackColor{
+    background-color: black;
+}
